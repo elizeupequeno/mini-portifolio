@@ -13,6 +13,8 @@
 
 -CSS3
 
+-JavaScript
+
 -Git e Github
 
 [Linkedin](https://www.linkedin.com/in/elizeu-claudionor-3b5047245/)
